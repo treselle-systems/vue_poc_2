@@ -1,4 +1,4 @@
-# sample
+# Vue Application
 
 >Vue POC application developed by Kavi Chithra.
 
