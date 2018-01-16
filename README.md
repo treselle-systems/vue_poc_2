@@ -1,6 +1,6 @@
 # sample
 
-> sample
+>Vue POC application developed by Kavi Chithra.
 
 ## Build Setup
 
