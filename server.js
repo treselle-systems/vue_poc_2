@@ -22,8 +22,8 @@ app.use(function(req, res, next) {
 var userObject = [{
 	   firstName : "Kavi",
 	   lastName : "Chithra",
-	   email : "kavichithra@gmail.com",
-	   password : "123456",
+	   email : "admin@gmail.com",
+	   password : "admin123",
 	   token : "fCzqZ7WhLk"
     }]
 
